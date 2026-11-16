@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="88dp"
+    android:height="88dp"
+    android:viewportWidth="88"
+    android:viewportHeight="88">
+    <!-- Rounded square matching Flutter SplashScreen -->
+    <path
+        android:fillColor="#582493"
+        android:pathData="M18,0 L70,0 Q88,0 88,18 L88,70 Q88,88 70,88 L18,88 Q0,88 0,70 L0,18 Q0,0 18,0 Z" />
+    <!-- White alarm mark -->
+    <path
+        android:pathData="M44,29 A17,17 0 1,0 44,63 A17,17 0 1,0 44,29 Z"
+        android:strokeWidth="4.5"
+        android:strokeColor="#FFFFFF" />
+    <path
+        android:pathData="M44,36 L44,46 L52,50"
+        android:strokeWidth="4.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M26,28 L33,22 M62,28 L55,22"
+        android:strokeWidth="4.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+</vector>

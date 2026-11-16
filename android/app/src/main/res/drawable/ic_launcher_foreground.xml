@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Alarm clock ring -->
+    <path
+        android:pathData="M54,34 A22,22 0 1,0 54,78 A22,22 0 1,0 54,34 Z"
+        android:strokeWidth="5.5"
+        android:strokeColor="#FFFFFF" />
+    <!-- Clock hands -->
+    <path
+        android:pathData="M54,43 L54,56 L64,61"
+        android:strokeWidth="5.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Top alarm ears -->
+    <path
+        android:pathData="M31,34 L39,26 M77,34 L69,26"
+        android:strokeWidth="5.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+    <!-- Bottom alarm feet -->
+    <path
+        android:pathData="M40,74 L35,80 M68,74 L73,80"
+        android:strokeWidth="5.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+</vector>
